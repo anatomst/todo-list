@@ -11,7 +11,7 @@ Django project for managing your days
 Python must be already installed
 
 ```shell
-git clone https://github.com/anatomst/taxi-service.git
+git clone https://github.com/anatomst/todo-list.git
 python3 -m venv venv
 source venv/bin/activate (on Linux and macOS) or venv\Scripts\activate (on Windows)
 pip install -r requirements.txt
@@ -24,7 +24,7 @@ python manage.py runserver
 
 * Add tasks and tags
 * Update status of your tasks
-* Fix your deadlines
+* Fixing your deadlines
 
 
 ## Demo
